@@ -7,12 +7,10 @@ The FER 2013 dataset used in this project can be obtained from the following lin
 The dataset consists of grayscale images of size 48x48 pixels, and each image is labeled with one of the following emotions:<br>
 
 Angry<br>
-Disgust<br>
-Fear<br>
 Happy<br>
 Sad<br>
-Surprise<br>
-Neutral<br>
+
+
 For this project, we will focus on the emotions of angry, happy, and sad.
 
 ## Data Preprocessing
